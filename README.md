@@ -1,73 +1,53 @@
-# Welcome to your Lovable project
+<p align="center">
+  <img src="https://raw.githubusercontent.com/testmind-qa/testmind-qa/main/images/logo.jpeg" width="30%" alt="Banner TestMind">
+</p>
 
-## Project info
+> A **TestMind** é uma consultoria especializada em qualidade de software.  
+> Ajudamos empresas a melhorar seus processos de teste, garantindo entregas com mais confiança, eficiência e valor para o negócio.
+> Nascemos da necessidade de levar qualidade para todos os projetos de software, desde pequenos sistemas à ecossistemas complexos.
+<p align="center">
+  PORQUE QUALIDADE É INEGOCIÁVEL!
+</p>
 
-**URL**: https://lovable.dev/projects/997f8b0c-9fb7-45b5-96ab-7ddea36e0cf1
+💬 **Serviços:**
+- Consultoria em QA
+- Automação de Testes (UI, API, Mobile) (Em breve)
+- Mentorias personalizadas em testes
+- Implementação de pipelines e relatórios automatizados (Em breve)
 
-## How can I edit this code?
+📫 **Contato:** [testmind.consulting@gmail.com](testmind.consulting@gmail.com)  
+🌍 **Site (em breve):** 
 
-There are several ways of editing your application.
 
-**Use Lovable**
+---
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/997f8b0c-9fb7-45b5-96ab-7ddea36e0cf1) and start prompting.
+### 📈 Estatísticas do GitHub
 
-Changes made via Lovable will be committed automatically to this repo.
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=testmind-qa&show_icons=true&theme=blueberry" />
+</p>
 
-**Use your preferred IDE**
+---
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+### 🤝 Conecte-se comigo
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+<p align="center">
+  <a href="https://www.linkedin.com/in/lucas-souza-da-rosa" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0056D6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:testmind.consulting@gmail.com">
+    <img src="https://img.shields.io/badge/E--mail-00C853?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/>
+  </a>
+  <a href="https://github.com/lucasrosa14">
+    <img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.instagram.com/testmind_qa" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-0056D6?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
 
-Follow these steps:
+---
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/997f8b0c-9fb7-45b5-96ab-7ddea36e0cf1) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+<p align="center">
+  <sub>© 2025 TestMind Software Quality Consulting · Desenvolvido com 💙 por Lucas Souza da Rosa</sub>
+</p>
